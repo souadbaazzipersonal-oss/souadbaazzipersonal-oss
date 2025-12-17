@@ -4,9 +4,9 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary>  Busy learning & creating content 🎥💻   </summary> </strong></p>
+<p><strong> <summary> Busy learning & creating content 🎥💻 </summary> </strong></p>
 
-🎧 I like studying while editing or coding
+🎧 I enjoy learning programming while editing videos
 
 </details>
 
