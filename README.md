@@ -1,61 +1,42 @@
-<div align="center">
+<div align="center" width="50">
 
-## 👋 Hi, I'm Souad 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-🎓 High school student  
-💻 Learning programming step by step  
-🎥 YouTube content creator  
-🎬 Video editor & graphic designer  
+<details>
+<p><strong> <summary>  Busy learning & creating content 🎥💻   </summary> </strong></p>
 
----
+🎧 I like studying while editing or coding
 
-### 🌱 About Me
+</details>
 
-- 👩‍💻 I’m learning **Computer Science fundamentals**
-- 📚 Following **CS50 – Harvard University**
-- 🎥 I share content on **YouTube**
-- ✂️ Video editing using **Kdenlive**
-- 🎨 Graphic design with **GIMP**
-- 🐧 I like **Linux & open-source tools**
+![Profile Views](https://komarev.com/ghpvc/?username=souadbaazzipersonal-oss&style=flat&color=orange&label=PROFILE+VIEWS)
 
----
+</div>
 
-### 🔗 My YouTube Channel
+<hr>
 
-📺 **Souad on YouTube**  
-👉 https://www.youtube.com/channel/UC780iX7aw7zNyjQvizfdGHg
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
 
----
-
-### 🛠 Tools & Skills
-
-#### 💻 Programming (Learning)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
-#### 🎬 Content Creation
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kdenlive](https://img.shields.io/badge/Kdenlive-527EB2?style=flat&logo=kdenlive&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
+![Gimp](https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
-#### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS_Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+```dart
+// About me (learning stage)
 
----
-
-### ✨ Goals
-
-- 🚀 Build small programming projects
-- 📦 Document my learning journey
-- 🎥 Combine programming & content creation
-- 🌍 Grow step by step as a developer
-
----
-
-### 📊 GitHub Stats
-
-![Souad's GitHub stats](https://github-readme-stats.vercel.app/api?username=souadbaazzipersonal-oss&show_icons=true&theme=tokyonight)
-
-</div>
+class AboutMe {
+  final tools = {
+    "Programming": ["C", "Python", "HTML"],
+    "Editing": ["Kdenlive"],
+    "Design": ["GIMP"],
+    "Tools": ["Git", "VS Code"],
+    "OS": ["GNU/Linux", "Windows"]
+  };
+}
