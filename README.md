@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi, I'm Souad (سعاد)
+## 👋 Hi, I'm Souad 
 
 🎓 High school student  
 💻 Learning programming step by step  
